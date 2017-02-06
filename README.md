@@ -15,8 +15,8 @@ https://github.com/tywtyw2002, and https://github.com/treedust
 
 Httpclient.py contains contributions from:
 
-Abram Hindle
-Vinson Lai
+Abram Hindle,
+Vinson Lai,
 Larin Chen
 
 But the server.py example is derived from the python documentation
